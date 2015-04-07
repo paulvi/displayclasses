@@ -50,7 +50,7 @@ If you have real devices please check numbers using utils like [ScreenInfo](http
 |HTC One  |xxhdpi  |469| | | |
 |HTC One X+  |xhdpi  |312| | | |
 |HTC One M8  |xxhdpi  |441| | | |
-|Huawei X1 7.0|xxhdpi  |400| |1900|1200|
+|Huawei X1 7.0|xxhdpi  |400|2.5 |1900|1200|
 |LG Optimus one  |mdpi  |180| | | |
 |LG Optimus S    |mdpi  |180| | | |
 |LG Optimus V   |mdpi  |180| | | |
